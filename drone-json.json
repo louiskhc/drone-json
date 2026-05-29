@@ -450,7 +450,7 @@
         "tolerations": {
           "description": "If specified, the pod's tolerations.",
           "items": {
-            "$ref": "https://kubernetesjsonschema.dev/master/_definitions.json#/definitions/io.k8s.api.core.v1.Toleration"
+            "$ref": "https://raw.githubusercontent.com/yannh/kubernetes-json-schema/master/master/_definitions.json#/definitions/io.k8s.api.core.v1.ResourceRequirements"
           },
           "type": "array"
         },
