@@ -733,7 +733,7 @@
               ]
             },
             "resources": {
-              "$ref": "https://kubernetesjsonschema.dev/master/_definitions.json#/definitions/io.k8s.api.core.v1.ResourceRequirements"
+              "$ref": "https://raw.githubusercontent.com/yannh/kubernetes-json-schema/master/master/_definitions.json#/definitions/io.k8s.api.core.v1.ResourceRequirements"
             },
             "volumes": {
               "$ref": "#/definitions/steps_volumes"
